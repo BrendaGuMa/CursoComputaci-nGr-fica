@@ -1,4 +1,7 @@
-//Encabezado
+//Práctica#2
+//Guerra Marcelino Brenda Paola
+//Fecha de entrega: 30 de agosto de 2026
+//Número de cuenta: 319021068
 
 #include<iostream>
 
@@ -25,7 +28,7 @@ int main() {
 	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 	glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);*/
 
-	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "Dibujo de Primitivas en 2D", NULL, NULL);
+	GLFWwindow *window = glfwCreateWindow(WIDTH, HEIGHT, "Práctica 2 - Brenda Guerra", NULL, NULL);
 	glfwSetFramebufferSizeCallback(window, resize);
 	
 	//Verificaci�n de errores de creacion  ventana
