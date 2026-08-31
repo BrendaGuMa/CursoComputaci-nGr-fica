@@ -267,6 +267,111 @@ int main() {
 		-0.21f, -0.12f, 0.0f,   0.686f,0.847f,0.902f, //13
 		-0.18f, -0.01f, 0.0f,   0.686f,0.847f,0.902f, //15
 		0.08f, -0.06f, 0.0f,    0.686f,0.847f,0.902f, //18
+
+		// FLORES
+		-0.2f, -0.01f, 0.0f, 	0.0f,0.604f,0.388f, //1 
+		-0.17f, -0.015f, 0.0f,  0.0f,0.604f,0.388f, //2
+		-0.3f, 0.7f, 0.0f,      0.0f,0.604f,0.388f, //3 
+
+		-0.17f, -0.015f, 0.0f,  0.0f,0.604f,0.388f, //2
+		-0.3f, 0.7f, 0.0f,      0.0f,0.604f,0.388f, //3
+		-0.27f, 0.7f, 0.0f,     0.0f,0.604f,0.388f, //4
+
+		-0.14f, -0.02f, 0.0f,   0.0f,0.604f,0.388f, //1
+		-0.11f, -0.025f, 0.0f,  0.0f,0.604f,0.388f, //2
+		-0.14f, 0.7f, 0.0f,     0.0f,0.604f,0.388f, //3
+
+		-0.11f, -0.025f, 0.0f,  0.0f,0.604f,0.388f, //2
+		-0.14f, 0.7f, 0.0f,     0.0f,0.604f,0.388f, //3
+		-0.11f, 0.7f, 0.0f,     0.0f,0.604f,0.388f, //4
+
+		-0.05f, -0.035f, 0.0f,  0.0f,0.604f,0.388f, //1
+		-0.02f, -0.04f, 0.0f,   0.0f,0.604f,0.388f, //2
+		0.08f, 0.7f, 0.0f,      0.0f,0.604f,0.388f, //3
+
+		-0.05f, -0.035f, 0.0f,  0.0f,0.604f,0.388f, //1
+		0.08f, 0.7f, 0.0f,      0.0f,0.604f,0.388f, //3
+		0.05f, 0.7f, 0.0f,      0.0f,0.604f,0.388f, //4
+
+		// PRUEBA
+		// FLORES ROSAS
+
+		// FLOR 1
+		-0.285f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.34f, 0.82f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.27f, 0.83f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.285f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.27f, 0.83f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.20f, 0.76f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.285f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.20f, 0.76f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.21f, 0.68f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.285f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.21f, 0.68f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.27f, 0.59f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.285f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.27f, 0.59f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.35f, 0.61f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.285f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.35f, 0.61f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.39f, 0.72f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+
+		// FLOR 2
+		-0.125f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.18f, 0.82f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.11f, 0.83f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.125f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.11f, 0.83f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.04f, 0.76f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.125f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.04f, 0.76f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.05f, 0.68f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.125f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.05f, 0.68f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.11f, 0.59f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.125f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.11f, 0.59f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.19f, 0.61f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		-0.125f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.19f, 0.61f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.235f, 0.72f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+
+		// FLORE 3
+		0.065f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.01f, 0.82f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.08f, 0.83f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		0.065f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.08f, 0.83f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.15f, 0.76f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		0.065f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.15f, 0.76f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.14f, 0.68f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		0.065f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.14f, 0.68f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.08f, 0.59f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		0.065f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.08f, 0.59f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.00f, 0.61f, 0.0f, 1.0f, 0.4f, 0.7f,
+
+		0.065f, 0.70f, 0.0f, 1.0f, 0.4f, 0.7f,
+		0.00f, 0.61f, 0.0f, 1.0f, 0.4f, 0.7f,
+		-0.04f, 0.72f, 0.0f, 1.0f, 0.4f, 0.7f,
 	};
 	unsigned int indices[] = {  // note that we start from 0!
 		1,3,4,// second Triangle
@@ -377,6 +482,41 @@ int main() {
 		glDrawArrays(GL_TRIANGLES,138,3);
 		glDrawArrays(GL_TRIANGLES,141,3);
 		glDrawArrays(GL_TRIANGLES,144,3);
+
+		// FLORES
+		glDrawArrays(GL_TRIANGLES,147,3);
+		glDrawArrays(GL_TRIANGLES,150,3);
+		glDrawArrays(GL_TRIANGLES,153,3);
+		glDrawArrays(GL_TRIANGLES,156,3);
+		glDrawArrays(GL_TRIANGLES,159,3);
+		glDrawArrays(GL_TRIANGLES,162,3);
+
+		// PRUEBA
+		// FLORES ROSAS
+
+		// FLOR 1
+		glDrawArrays(GL_TRIANGLES, 165, 3);
+		glDrawArrays(GL_TRIANGLES, 168, 3);
+		glDrawArrays(GL_TRIANGLES, 171, 3);
+		glDrawArrays(GL_TRIANGLES, 174, 3);
+		glDrawArrays(GL_TRIANGLES, 177, 3);
+		glDrawArrays(GL_TRIANGLES, 180, 3);
+
+		// FLOR 2
+		glDrawArrays(GL_TRIANGLES, 183, 3);
+		glDrawArrays(GL_TRIANGLES, 186, 3);
+		glDrawArrays(GL_TRIANGLES, 189, 3);
+		glDrawArrays(GL_TRIANGLES, 192, 3);
+		glDrawArrays(GL_TRIANGLES, 195, 3);
+		glDrawArrays(GL_TRIANGLES, 198, 3);
+
+		// FLOR 3
+		glDrawArrays(GL_TRIANGLES, 201, 3);
+		glDrawArrays(GL_TRIANGLES, 204, 3);
+		glDrawArrays(GL_TRIANGLES, 207, 3);
+		glDrawArrays(GL_TRIANGLES, 210, 3);
+		glDrawArrays(GL_TRIANGLES, 213, 3);
+		glDrawArrays(GL_TRIANGLES, 216, 3);
 
         //glPointSize(10);
         //glDrawArrays(GL_POINTS,2,2);
