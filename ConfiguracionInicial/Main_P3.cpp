@@ -1,4 +1,4 @@
-//Previo#3
+//Práctica#3
 //Guerra Marcelino Brenda Paola
 //Fecha de entrega: 01 de septiembre de 2026
 //Número de cuenta: 319021068
@@ -245,13 +245,13 @@ int main() {
 		glDrawArrays(GL_TRIANGLES, 0, 36);
 
 		// CUBO 2
-		/*model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(4.0f, 2.0f, 0.0f));
-		model = glm::rotate(model, 0.8f, glm::vec3(0.0f, 1.0f, 0.0f));
-		model = glm::scale(model, glm::vec3(1.0f, 1.5f, 1.0f));
+		model = glm::mat4(1);
+		model = glm::translate(model, glm::vec3(2.0f, -2.0f, 0.0f));
+		model = glm::rotate(model, 1.9f, glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(2.0f, 2.0f, 2.0f));
 
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glDrawArrays(GL_TRIANGLES, 0, 36);*/
+		glDrawArrays(GL_TRIANGLES, 0, 36);
 
 		// CUBO 3
 		/*model = glm::mat4(1);
